@@ -1,0 +1,49 @@
+/*body {
+	background-image: url(cat.jpg);
+}*/
+  
+h5{
+	color: #33cc33;
+	font-size: 30px;
+	font-family: 
+} 
+.colorgreen{
+	color: #FF000D;
+}
+.paragraf{
+	color:#5940FF;
+	font-size: 16px; 
+}
+/*font-sise-- чтоб задать размер шрифта*/
+#tvo_text{
+	color: green;
+}
+.schitaem{
+	color: red;
+	margin: 1px;
+}
+/*maugin-- чтобы задать отступ*/
+.block{
+	color: #FFF600;
+    border: 7px solid; 
+    border-radius: 30px;
+    opacity:0.6;
+    width: 80%
+}
+.block:hover{
+	opacity: 1;
+}
+/*box-shadow: 8px 54px 5px #000000-- это чтобы задатьтень елементу*/
+/*text-align: center,left-- это для виравнивания текста*/
+/*font-weight-- для жирноты текста*/
+.history{
+	color: #AC80CE
+	box-shadow: 2px;
+}
+.schitaem_2{
+	color: green;
+	box-shadow: 3px;
+}
+.my_history{
+	background-color: purple;
+}
